@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/aurbano/robinhood-node/master/.github/robinhood-node.png]()
+![](https://raw.githubusercontent.com/wh-iterabb-it/robinhood-node/feattouchups/.github/robinhood-node.png)
 
 NodeJS Framework to make trades with the private [Robinhood](https://www.robinhood.com/) API. 
 
