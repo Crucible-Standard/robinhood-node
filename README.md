@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/wh-iterabb-it/robinhood-node/feattouchups/.github/robinhood-node.png)
 
-NodeJS Framework to make trades with the private [Robinhood](https://www.robinhood.com/) API. 
+`robinhood-node` is an UNOFFICIAL NodeJS framework to make trades with the private [Robinhood](https://www.robinhood.com/) API. 
 
 Using this API is not encouraged, since it's not officially available and it has been reverse engineered.
 
