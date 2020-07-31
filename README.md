@@ -1,7 +1,8 @@
-<h1><img src="https://raw.githubusercontent.com/aurbano/robinhood-node/master/.github/robinhood-node.png"/></h1>
+![](https://raw.githubusercontent.com/wh-iterabb-it/robinhood-node/feattouchups/.github/robinhood-node.png)
 
-NodeJS Framework to make trades with the private [Robinhood](https://www.robinhood.com/) API. Using this API is not encouraged, since it's not officially available and it has been reverse engineered.
-See @Sanko's [Unofficial Documentation](https://github.com/sanko/Robinhood) for more information.
+`robinhood-node` is an UNOFFICIAL NodeJS framework to make trades with the private [Robinhood](https://www.robinhood.com/) API. 
+
+Using this API is not encouraged, since it's not officially available and it has been reverse engineered.
 
 FYI [Robinhood's Terms and Conditions](https://brokerage-static.s3.amazonaws.com/assets/robinhood/legal/Robinhood%20Terms%20and%20Conditions.pdf)
 
